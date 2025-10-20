@@ -3,7 +3,7 @@
  * Plugin Name: YT Duplicate Post Detector
  * Plugin URI: https://github.com/krasenslavov/yt-duplicate-post-detector
  * Description: Prevents publishing posts with similar titles using Levenshtein distance algorithm. Displays warnings for potential duplicates.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * Author: Krasen Slavov
